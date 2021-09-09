@@ -1,0 +1,93 @@
+* {
+    box-sizing: border-box;
+  }
+  .root {
+      display: block;
+      display: flex;
+      width: 100%;
+      height: 400px;
+  }
+ 
+  .orange {
+      display: block;
+      display: flex;
+
+      background-color: orangered;
+      width: 100%;
+      height: 400px;
+      background-position: center;
+      z-index: 2;
+
+  }
+
+  .bgimage {
+      display: block;
+      display: flex;
+      background-image: url("./ele2.jpg");
+      width: 100%;
+      height: 100%;
+      background-position: left;
+      /* background-image: url("./isolation.png"); */
+     
+
+
+   
+ 
+
+
+  }
+  .isolation {
+      z-index: 3;
+      margin-left: 25%;
+      width: 512px;
+      overflow: hidden;
+
+  }
+  .isolation h1 {
+    text-transform: uppercase;
+    font:bolder;
+    color: rgba(182, 157, 157, 0.459);
+    font-size: 190px;
+  }
+
+  .filtre {
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+    background-color: rgba(0, 65, 95, 0.226); 
+   } 
+
+  #ing {
+    display: block;
+    display: flex;
+      margin-top: 70px;
+      margin-left: 35%;
+      width: 140px;
+      height: 200px;
+    }
+      .titre2{
+        display: block;
+        display: flex;
+
+      }
+      .ing2 {
+        display: block;
+        display: flex; 
+      }
+.txt-org {
+    display: flex;
+    margin-left: 40%;
+    margin-top: 10%;
+   
+}
+
+.txt-org h3 {
+    line-height:2;
+    margin-left: 10%;
+    color: white;
+    
+}
+.txt-org p {
+    color: white;
+
+}

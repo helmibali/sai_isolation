@@ -1,0 +1,41 @@
+.rect{
+background-position: left top;
+
+}
+.logo{
+width: 120px;
+padding-left: 20px;
+
+}
+
+
+#apropos{
+    padding-left: 50px;
+}
+
+#services
+{
+    padding-left: 30px;   
+}
+#Ingennierie
+{
+    padding-left: 30px;   
+}
+#contact
+{
+    padding-left: 30px;   
+}
+#QHSE
+{
+    padding-left: 30px;   
+}
+#projet
+{
+    padding-left: 30px;   
+}
+.tel{
+    padding-right: 50px;
+}
+.contact{
+    text-align: justify;
+}
