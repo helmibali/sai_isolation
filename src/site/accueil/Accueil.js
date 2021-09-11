@@ -6,7 +6,15 @@ import Element4 from './element4/Element4';
 import Ele3 from './element3/Ele3';
 import Caroussel from './carusel/caroussel';
 import './accueil.css';
+
+
+
 class Accueil extends Component {
+
+    componentDidMount = () =>{
+        document.title = "SAI Isolation";
+    }
+
     render(){
     return (
         <>

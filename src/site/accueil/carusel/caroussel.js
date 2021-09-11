@@ -17,7 +17,7 @@ import Zaghouen from './caroussel-imgs/4.jpg';
                 <div className="card-body">
                     <h5 className="card-title">Bizerte</h5>
                     <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <a href="#" className="btn btn-primary">Go somewhere</a>
+                    <a href="#" className="btn btn-outline-warning">Go somewhere</a>
                 </div>
             </div>
             <div className="card">
@@ -25,7 +25,7 @@ import Zaghouen from './caroussel-imgs/4.jpg';
                 <div className="card-body">
                     <h5 className="card-title">Tunis</h5>
                     <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <a href="#" className="btn btn-primary">Go somewhere</a>
+                    <a href="#" className="btn btn-outline-warning">Go somewhere</a>
                 </div>
             </div>
             <div className="card">
@@ -33,7 +33,7 @@ import Zaghouen from './caroussel-imgs/4.jpg';
                 <div className="card-body">
                     <h5 className="card-title">Sousse</h5>
                     <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <a href="#" className="btn btn-primary">Go somewhere</a>
+                    <a href="#" className="btn btn-outline-warning">Go somewhere</a>
                 </div>
             </div>
             <div className="card">
@@ -41,7 +41,7 @@ import Zaghouen from './caroussel-imgs/4.jpg';
                 <div className="card-body">
                     <h5 className="card-title">Zaghouene</h5>
                     <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <a href="#" className="btn btn-primary">Go somewhere</a>
+                    <a href="#" className="btn btn-outline-warning">Go somewhere</a>
                 </div>
             </div>
             <div className="card">
@@ -49,7 +49,7 @@ import Zaghouen from './caroussel-imgs/4.jpg';
                 <div className="card-body">
                     <h5 className="card-title">Nabeul</h5>
                     <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <a href="#" className="btn btn-primary">Go somewhere</a>
+                    <a href="#" className="btn btn-outline-warning">Go somewhere</a>
                 </div>
             </div>
             
