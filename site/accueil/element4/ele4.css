@@ -1,0 +1,41 @@
+
+* {
+    box-sizing: border-box;
+  }
+  .bg4 {
+     
+      display: flex;
+      background-image: url('./image4.jpg');
+      width: 100%;
+      height: 500px;
+  }
+  .filtre4 {
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+    background-color: rgba(0, 65, 95, 0.226); 
+  }
+
+  .txt4 {
+      
+   
+      margin-left: 20%;
+      margin-top: 5%;
+      color: white;
+      overflow-x: auto;
+      overflow-y: auto;
+     
+     
+  }
+  .link {
+      display: inline;
+      text-decoration: none;
+      color: antiquewhite;
+      font-family: 'Times New Roman', Times, serif;
+
+  }
+
+  .link a {
+      color:orangered;
+      font-weight: bold;
+  }
